@@ -8,7 +8,7 @@
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
-    "chinese" : {
+	"chinese" : {
 		"name" : "摇篮",
 		"description" : "灵魂指引者的新城镇摇篮，连接者包含永恒、黑夜与梦境的异界。",
 		"translations" : [
