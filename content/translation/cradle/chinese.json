@@ -226,7 +226,7 @@
 	"mapObject.cradle-town.creatureGeneratorCommon.cradle_creature_lvl8_dwelling.name" : "星际之门",
 	"river.cradle-town.nightStoneRiver.name" : "永恒之河",
 	"skill.cradle-town.reflection.description.advanced" : "{中级反射学}\n\n中级反射学使生物有20%的几率反射目标为自身的法术。",
-	"skill.cradle-town.reflection.description.basic" : "{初级反射学}\n\n初级级反射学使生物有10%的几率反射目标为自身的法术。.",
+	"skill.cradle-town.reflection.description.basic" : "{初级反射学}\n\n初级反射学使生物有10%的几率反射目标为自身的法术。",
 	"skill.cradle-town.reflection.description.expert" : "{高级反射学}\n\n高级反射学使生物有30%的几率反射目标为自身的法术。",
 	"skill.cradle-town.reflection.name" : "反射学",
 	"spell.cradle-town.cradle_StarCaster.description.advanced" : "辉星火花",
