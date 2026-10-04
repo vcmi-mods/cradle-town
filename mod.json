@@ -1,6 +1,6 @@
 {
 	"name" : "Cradle-town",
-	"description" : "The new city of soul guides, Cradle, connected to the otherworldly dimension of eternity, night and dreams.",
+	"description" : "The city of soul guides, Cradle, connected to the otherworldly dimension of eternity, night and dreams.",
 	"author" : "Vovan1698",
 	"contact" : "discord: Vovan1698, zeryss",
 	"version" : "1.0.1",
@@ -13,6 +13,13 @@
 		"description" : "灵魂指引者的新城镇摇篮，连接者包含永恒、黑夜与梦境的异界。",
 		"translations" : [
 			"translation/cradle/chinese.json"
+		]
+	},
+	"french" : {
+		"name" : "Berceau",
+		"description" : "Berceau, la cité des guides d'âmes, reliée à la dimension d'outre-monde de l'éternité, de la nuit et des rêves.",
+		"translations" : [
+			"translation/cradle/french.json"
 		]
 	},
 	"russian" : {
