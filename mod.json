@@ -29,6 +29,13 @@
 			"translation/cradle/russian.json"
 		]
 	},
+	"polish" : {
+		"name" : "Kolebka",
+		"description" : "Miasto przewodników dusz, Kolebka, połączone z nieziemskim wymiarem wieczności, nocy i snów.",
+		"translations" : [
+			"translation/cradle/polish.json"
+		]
+	},
 	"changelog" : {
 		"1.0.1" : [
 			"Fix for lvl 5 creatures animations"
